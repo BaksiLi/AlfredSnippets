@@ -11,6 +11,7 @@ This repository collects many useful snippets for [Alfred 3](https://www.alfreda
 # Catalogue
 - [Greek Alphabet](https://github.com/BaksiLi/Greek-Alphabet-Alfred-Snippet)
 - [Bopomofo](https://github.com/BaksiLi/Bopomofo-snippet)
+- Gitmoji ([reference](https://github.com/carloscuesta/gitmoji/blob/master/src/data/gitmojis.json)): To Be Uploaded
 
 # Acknowledgement
 Unless otherwise specified, the repository is licenced under the Creative Commons [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) (*Attribution-NonCommercial-ShareAlike 4.0 International*) Licence. 
